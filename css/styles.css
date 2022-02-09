@@ -127,6 +127,8 @@ span {
 
 .avatar {
     width: 33px;
+    border: 1px solid var(--white);
+    border-radius: 20px;
 }
 
 .creator__text {
